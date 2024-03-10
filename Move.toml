@@ -4,6 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
+notebook_addr='a85172e8c0f2125ca6b11b2774b45f3c39540c2b799583eb6771ae29c7ef2939'
 
 [dev-addresses]
 
