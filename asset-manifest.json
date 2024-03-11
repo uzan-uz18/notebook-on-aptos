@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/notebook-on-aptos/static/css/main.b7fc8fe2.css",
+    "main.js": "/notebook-on-aptos/static/js/main.caa5a619.js",
+    "static/js/453.258b012d.chunk.js": "/notebook-on-aptos/static/js/453.258b012d.chunk.js",
+    "index.html": "/notebook-on-aptos/index.html",
+    "main.b7fc8fe2.css.map": "/notebook-on-aptos/static/css/main.b7fc8fe2.css.map",
+    "main.caa5a619.js.map": "/notebook-on-aptos/static/js/main.caa5a619.js.map",
+    "453.258b012d.chunk.js.map": "/notebook-on-aptos/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7fc8fe2.css",
+    "static/js/main.caa5a619.js"
+  ]
+}
